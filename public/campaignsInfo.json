@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Warm Hearts for Dhaka",
+      "image": "https://i.ibb.co.com/cc2FhkH/winter-blanket-and-cash.jpg",
+      "description": "Help provide warm clothing to low-income families in Dhaka. Your donations will ensure they stay warm during the harsh winter.",
+      "status": "Ongoing",
+      "contactInfo": "contact@warmheartsdhaka.org",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Chill Relief in Chattogram",
+      "image": "https://i.ibb.co.com/WD427FP/images.jpg",
+      "description": "Support our efforts to collect and distribute winter clothes for vulnerable communities in Chattogram.",
+      "status": "Ongoing",
+      "contactInfo": "info@chillreliefctg.com",
+      "division": "Chattogram"
+    },
+    {
+      "id": 3,
+      "title": "Sylhet Warmth Drive",
+      "image": "https://i.ibb.co.com/DDRNfNL/sylhet-aid1.jpg",
+      "description": "Join us in providing winter clothing to those in need in the Sylhet region. Your generosity will make a difference.",
+      "status": "Upcoming",
+      "contactInfo": "sylhetwarmth@donations.org",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Keeping Khulna Warm",
+      "image": "https://i.ibb.co.com/myBd7nr/MA-Khulna-Bangladesh-1-1024x511.jpg",
+      "description": "Donate to help underprivileged families in Khulna receive essential winter clothing.",
+      "status": "Completed",
+      "contactInfo": "support@khulnawarmth.org",
+      "division": "Khulna"
+    },
+    {
+      "id": 5,
+      "title": "Rajshahi Winter Aid",
+      "image": "https://i.ibb.co.com/FqJyJyQ/Winter-Cloths5-at-Rajshahi-2023-scaled.jpg",
+      "description": "Assist in distributing warm clothes to impoverished communities in Rajshahi.",
+      "status": "Ongoing",
+      "contactInfo": "rajshahi@aidcampaigns.org",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 6,
+      "title": "Mymensingh Shelter & Warmth",
+      "image": "https://i.ibb.co.com/jJFT1hQ/pict-large.jpg",
+      "description": "Ensure that families in Mymensingh have adequate winter clothing. Your contribution is vital.",
+      "status": "Ongoing",
+      "contactInfo": "help@mymensingh.org",
+      "division": "Mymensingh"
+    }
+  ]
+  
