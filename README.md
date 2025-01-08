@@ -68,6 +68,22 @@ The Winter Clothing Donation Website connects donors with volunteers to provide 
 - **About Us Section:** Describes the platform's mission and how users can contribute.
 - **How It Works Section:** Provides information on how to donate, including collection points and supported divisions.
 
+## 🔗 Dependencies
+- @fortawesome/fontawesome-svg-core: ^6.7.0
+- @fortawesome/free-brands-svg-icons: ^6.7.0
+- @fortawesome/free-solid-svg-icons: ^6.7.0
+- @fortawesome/react-fontawesome: ^0.2.2
+- aos: ^2.3.4
+- firebase: ^11.0.2
+- react: ^18.3.1
+- react-dom: ^18.3.1
+- react-icons: ^5.3.0
+- react-router-dom: ^6.28.0
+- react-toastify: ^10.0.6
+
+## Installation
+- Run `npm install` to install project dependencies.
+
 ## 📣 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check out the issues page if you want to contribute.
 
@@ -79,4 +95,4 @@ If you like this project, consider giving it a ⭐ on GitHub!
 ✨ **[Experience the Live Version Here!](https://winter-cloth-donation-auth.web.app)** ✨
 
 ## 📂 GitHub Repository
-✨ **[Visit Repository!](https://github.com/programming-hero-web-course1/b10-a9-authentication-elite1122)** ✨
+✨ **[Visit Repository!](https://github.com/elite1122/Winter-Clothing-Donation-Website-Design)** ✨
